@@ -105,11 +105,6 @@ body {
     padding: 10px;
 }
 
-.image-2 {
-    background-image: url('/images/dokument-300x188.png');
-    background-size: cover;
-}
-
 .card a {
     background-color: black;
     color: white;
@@ -260,6 +255,14 @@ footer a:hover {
     .footer-main {
         flex-direction: column;
     }
+
+    .header {
+       padding: 12px 50px;
+       display: flex;
+       flex-direction: column;
+       gap: 10px;
+    }
+
 }
 
 /* cards-side ovanför */
