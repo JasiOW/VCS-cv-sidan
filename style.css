@@ -246,6 +246,29 @@ footer a:hover {
     margin-left: 2rem;
 }
 
+/* about css */
+
+
+.cv-card {
+    display: flex;
+    background: white;
+    max-width: 700px;
+    width: 90vw;
+    border-radius: 15px;
+}
+
+.cv-card-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.cv-card-image img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
 
 @media screen and (max-width: 768px){
     .card-side {
