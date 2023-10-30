@@ -54,6 +54,11 @@ main {
     width: 100%;
 }
 
+.activeLink{
+    background-color: aquamarine;
+    color: #fff;
+}
+
 /* ovanför är navbar */
 
 body {
