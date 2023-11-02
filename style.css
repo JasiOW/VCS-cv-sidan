@@ -163,24 +163,32 @@ body {
     padding: 10px;
 }
 
-.image-3 {
-    background-image: url('/images/icemountain.webp');
-    background-size: cover;
+.image-3 img {
+    
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 
-.image-4 {
-    background-image: url('/images/King-Queen-Chess-Pieces.webp');
-    background-size: cover;
+.image-4 img {
+    
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 
-.image-5 {
-    background-image: url('/images/-TU-_Hero_Image_-_Desktop.webp');
-    background-size: cover;
+.image-5 img {
+    
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 
-.image-6 {
-    background-image: url('/images/Badminton-banner-2000x915-1.webp');
-    background-size: cover;
+.image-6 img {
+    
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 .card-side a {
     background-color: black;
