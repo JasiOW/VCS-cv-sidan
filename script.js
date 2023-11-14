@@ -14,4 +14,11 @@ if(pageName === "contact.html"){
 }
 
 
-
+async function getResume() {
+    let response = await fetch();
+    if (response.ok) {
+        let json = await response.json();
+    } else {
+      console.log("HTTP-Error " + response.status);
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "personal": {
+        "name": "Jason Lin",
+        "sex": "Man",
+        "nationality": "Sverige",
+        "birthDate": "20030503",
+        "picture": "",
+        "email": "jason.lintan503@gmail.com",
+        "phone": "0793047032",
+        "summary": "Jag är en driftig och social person som älskar att träffa nya människor. Jag är samtidigt arbetsvilja som person och tycker om att ha koll på de saker jag ger min in i. Utifrån min personlighet kan jag erbjuda som ett bra arbetskollega.",
+        "location" {
+            "address": "Östrafarmvägen 36A",
+            "postalCode": "21441",
+            "city": "Malmö",
+            "countryCode": "Sweden",
+            "region": "Skåne"
+        },
+        "profiles": [
+          {
+            "network": "LinkedIn",
+            "username": "Jason Lin",
+            "url": "https://www.linkedin.com/in/jason-lin-88654324a/",
+          },
+          {
+            "network": "Github",
+            "username": "JasiOW",
+            "url": "https://github.com/JasiOW"
+          }
+        ]
+    },
+    "work": [
+       {
+        "company": "Burger King",
+        "position": "Medsarbetare",
+        "startDate": "2017-07-01",
+        "endDate": "2017-08-01",
+        "summary": "Sommarjobbade. Ständigt rotation på arbetsuppgift, där man både jobbar i köket, matsalen och serverar kunderna."
+       
+    },
+    {
+        "company": "Malmö kommun",
+        "position": "Trädgård och skötsel",
+        "startDate": "2022-07-01",
+        "endDate": "2022-08-01",
+        "summary": "Sommarjobbade. Arbetsuppgifter innefattar skötsel av grönytor i parkmiljö."
+        
+    }
+],
+"education": [
+ {
+    "highschool": "Malmö Borgarskolan",
+    "area": "Naturvetenskap",
+    "startDate": "2019-08-16",
+    "endDate": "2022-06-12", 
+    "extraCourses": [
+        "NAVNAT00S - Naturvetenskap specialisering",
+        "PRRPRR01 - Programmering 1",
+        "MATSPA04 - Moderna språk 4"
+    ]
+ }
+],
+"skills": [
+{
+    "qualifiction": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Python"
+    ]
+ }   
+],
+"languages": [
+ {
+    "language": "Svenska",
+    "fluency": "Native speaker"    
+ },
+ {
+    "language": "Engelska",
+    "fluency": "Advanced"
+ },
+ {
+    "language": "Spanish",
+    "fluency": "Novice"
+ },
+ {
+    "language": "Kinesiska (kantonesiska)",
+    "fluency": "Intermediate"
+ }
+],
+
+
+}
