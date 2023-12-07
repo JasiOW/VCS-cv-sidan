@@ -4,11 +4,11 @@
         "sex": "Man",
         "nationality": "Sverige",
         "birthDate": "20030503",
-        "picture": "",
+        "picture": "./images/IMG_ProfilbildJason.jpg",
         "email": "jason.lintan503@gmail.com",
         "phone": "0793047032",
         "summary": "Jag är en driftig och social person som älskar att träffa nya människor. Jag är samtidigt arbetsvilja som person och tycker om att ha koll på de saker jag ger min in i. Utifrån min personlighet kan jag erbjuda som ett bra arbetskollega.",
-        "location" {
+        "location": {
             "address": "Östrafarmvägen 36A",
             "postalCode": "21441",
             "city": "Malmö",
@@ -19,7 +19,7 @@
           {
             "network": "LinkedIn",
             "username": "Jason Lin",
-            "url": "https://www.linkedin.com/in/jason-lin-88654324a/",
+            "url": "https://www.linkedin.com/in/jason-lin-88654324a/"
           },
           {
             "network": "Github",
@@ -87,6 +87,30 @@
     "fluency": "Intermediate"
  }
 ],
-
+"interests": [
+ {
+    "name": "reading"
+ },
+ {
+    "name": "cooking"
+ },
+ {
+    "name": "sports"
+ },
+ {
+    "name": "video games"
+ }
+],
+"characteristics": [
+ {
+    "name": "punctuality"
+ },
+ {
+    "name": "reliable"
+ },
+ {
+    "name": "ambitious"
+ }
+]
 
 }

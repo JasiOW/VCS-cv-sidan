@@ -12,4 +12,4 @@ function checkGuess() {
         feedback.textContent = "Your guess was " + myGuess + "Too low. Try again!";
     }
 }
-submitGuess.addEventListener("Click", checkGuess );
+submitGuess.addEventListener("click", checkGuess );
